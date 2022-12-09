@@ -14,7 +14,7 @@
 ## Description
 > 2022.04. - 2022.05. (1개월) <br>
 > [오늘도 Tomato-do! (서비스 링크)](https://happy-jm.github.io/Tomato-do/) <br/>
-> [Team Notion](https://www.notion.so/tomato-do/Tomato-do-37daf0329b314e6c81ae99cb37fa2899)
+> [Team Notion](https://tomato-do.notion.site/tomato-do/Tomato-do-37daf0329b314e6c81ae99cb37fa2899)
 
 ### Summary
 
